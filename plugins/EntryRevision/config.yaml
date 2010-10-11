@@ -1,0 +1,10 @@
+name: EntryRevision
+id: EntryRevision
+author_link: http://www.koikikukan.com/
+author_name: Yujiro Araki
+doc_link: http://www.koikikukan.com/archives/2010/10/12-015555.php
+description: EntryRevision
+version: 0.01
+tags:
+    function:
+        EntryRevision: $EntryRevision::EntryRevision::Tags::_hdlr_entry_rivision
